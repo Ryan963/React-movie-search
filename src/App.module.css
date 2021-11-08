@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+  }
+  
+  
+  .more {
+      display: flex;
+      align-items: center;
+      margin: 20px 0;
+      justify-content: center;
+      padding-bottom: 20px;
+  }
+  
+  .more button {
+      cursor: pointer;
+      border: 0;
+      padding: 6px 10px;
+      font-size: 16px;
+      font-weight: 500;
+      outline: 0;
+  }
+  
+  .btn {
+      list-style: none;
+      padding: 4px 6px;
+      background-color: rgb(88, 42, 134);
+      margin: 5px 5px;
+      border-radius: 5px;
+  }
